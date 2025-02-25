@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Página-1" id="4_bGWc4GjpTt_5O7EugK">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="skSrH5UpNt0KbJ_N-VPn-2" target="skSrH5UpNt0KbJ_N-VPn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-2" value="Webserver" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="-46.07" y="49.41999999999999" width="211.68" height="107.37" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;rotation=90;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-25.849999999999998" y="69.99999999999999" width="171.24" height="66.21" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="skSrH5UpNt0KbJ_N-VPn-3" target="skSrH5UpNt0KbJ_N-VPn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="skSrH5UpNt0KbJ_N-VPn-3" target="skSrH5UpNt0KbJ_N-VPn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-3" value="Trigger" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="232.91" y="-380" width="211.68" height="107.37" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;rotation=0;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="253.70999999999998" y="-359.98" width="171.24" height="66.21" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="skSrH5UpNt0KbJ_N-VPn-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="338.75" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="skSrH5UpNt0KbJ_N-VPn-5" target="skSrH5UpNt0KbJ_N-VPn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-5" value="Scheduler" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="232.91000000000003" y="200" width="211.68" height="107.37" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;rotation=0;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="220.57999999999998" width="171.24" height="66.21" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-7" value="Banco de dados" style="image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-96.62" width="97.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-8" value="Redis Cache" style="image;sketch=0;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-91.63" width="142.86" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-17" value="Worker" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="-46.07" y="-203.99000000000004" width="211.68" height="107.37" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png;rotation=90;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-25.849999999999998" y="-200" width="171.24" height="66.21" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="skSrH5UpNt0KbJ_N-VPn-17" target="skSrH5UpNt0KbJ_N-VPn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="skSrH5UpNt0KbJ_N-VPn-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120.000005840001" y="-335" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="skSrH5UpNt0KbJ_N-VPn-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="156.4999850776128" y="-335.01197" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-25" value="Fonte:&amp;nbsp;https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/overview.html#separate-dag-processing-architecture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10.000000000000014" y="370" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="skSrH5UpNt0KbJ_N-VPn-26" value="DAG Files" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/folder_open.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-359.98" width="46" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
