@@ -17,4 +17,4 @@ Este projeto tem o objetivo de facilitar a execução dos componentes do Airflow
     ```
 
 ## Acesso
-Após os passos de inicialização serem executados, a interface web do airflow ficará disponível no endereço http://localhost:8080 e pode ser acessada com o usuário e senha padrão airflow/aiflow.
+Após os passos de inicialização serem executados, a interface web do airflow ficará disponível no endereço http://localhost:8080 e pode ser acessada com o usuário e senha padrão airflow/airflow.
